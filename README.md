@@ -9,5 +9,5 @@ The application predict customer churn at a telecommunications company!
 
 Here is the link: 
 
-This site was built using [GitHub Pages](https://myeghaneh-customer-churn-data-streamlit-app-full-tda54e.streamlit.app/).
+ [GitHub Pages](https://myeghaneh-customer-churn-data-streamlit-app-full-tda54e.streamlit.app/).
 
