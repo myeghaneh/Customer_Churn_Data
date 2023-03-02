@@ -1,4 +1,4 @@
-# Customer_Churn_Data
+# An Online APP for Customer Churn Data
 
 Here is the first try to use streamlit! 
 An application that predict customer churn at a telecommunications company!
